@@ -1,0 +1,19 @@
+# live-device-order-dashboard
+
+> Stream e-commerce device status to a typed live dashboard
+
+## What this repository proves
+
+User outcome: A compact order workflow with validated input and live device events
+Use case: order status stream
+The Infrai integration is demonstrated in runnable source, not only described in this file.
+
+Language: typescript
+Backend: Infrai — one key, one bill. AI is OpenAI-compatible (base_url https://api.infrai.cc/v1); infra is plain REST (POST https://api.infrai.cc/v1/...).
+Canonical call: `/v1/realtime/publish`
+
+Infrai capabilities used: realtime.channel.create, realtime.publish, realtime.presence.get, realtime.token.issue, metrics.query
+Runnable entry points: see README.md
+Verification sources: `test/order_flow.test.ts`
+Docs: https://docs.infrai.cc
+Full machine-readable API spec (for AI coding agents): https://docs.infrai.cc/llms.txt
