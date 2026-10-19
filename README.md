@@ -32,3 +32,7 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 **Live Device Order Dashboard: Realtime**
 - **Live Device Order Dashboard:** Mint **short-lived client tokens server-side** (`POST /v1/realtime/token/issue`); never ship your project key to the browser.
+
+## Further reading
+
+- [Multiplayer Game Lobby Room State API Boundaries (and Replaceable Presence)](docs/multiplayer-game-lobby-room-state-api-boundaries-cmvaax.md)
