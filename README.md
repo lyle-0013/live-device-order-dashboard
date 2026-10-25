@@ -35,4 +35,5 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 ## Further reading
 
+- [A Presence-Aware Meeting API Approach for Live Financial Captions](docs/a-presence-aware-meeting-api-approach-for-live-fi-1ki0fq.md)
 - [Multiplayer Game Lobby Room State API Boundaries (and Replaceable Presence)](docs/multiplayer-game-lobby-room-state-api-boundaries-cmvaax.md)
